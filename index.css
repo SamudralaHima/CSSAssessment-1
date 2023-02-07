@@ -1,0 +1,13 @@
+.main{
+    background-color: #F8F9F9;
+    padding: 0px 150px 30px 150px;
+}
+.main2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.submit{
+    background-color: gray;
+    color: white;
+    width: 170px;
+}
